@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Starbucks-Nutrition-Dashboard/static/css/main.88831ec7.css",
+    "main.js": "/Starbucks-Nutrition-Dashboard/static/js/main.595dfd69.js",
+    "static/js/453.84be21ab.chunk.js": "/Starbucks-Nutrition-Dashboard/static/js/453.84be21ab.chunk.js",
+    "index.html": "/Starbucks-Nutrition-Dashboard/index.html",
+    "main.88831ec7.css.map": "/Starbucks-Nutrition-Dashboard/static/css/main.88831ec7.css.map",
+    "main.595dfd69.js.map": "/Starbucks-Nutrition-Dashboard/static/js/main.595dfd69.js.map",
+    "453.84be21ab.chunk.js.map": "/Starbucks-Nutrition-Dashboard/static/js/453.84be21ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88831ec7.css",
+    "static/js/main.595dfd69.js"
+  ]
+}
