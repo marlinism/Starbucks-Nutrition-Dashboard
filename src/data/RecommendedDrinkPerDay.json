@@ -1,0 +1,23 @@
+[
+  {
+    "group": "Children",
+    "age": "Ages 0-11",
+    "max_intake": 0,
+    "precise_max_cups": 0,
+    "max_cups": 0
+  },
+  {
+    "group": "Adolescents",
+    "age": "Ages 12-18",
+    "max_intake": 100,
+    "precise_max_cups": 1.0071942446043165,
+    "max_cups": 1
+  },
+  {
+    "group": "Adults",
+    "age": "Ages 19+",
+    "max_intake": 400,
+    "precise_max_cups": 4.028776978417266,
+    "max_cups": 4
+  }
+]

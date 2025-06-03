@@ -1,0 +1,22 @@
+.nutrient-selector {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    padding: 10px 24px;
+    background-color: #f9f9f9;
+    border-bottom: 1px solid #ddd;
+}
+
+.nutrient-option {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 14px;
+    cursor: pointer;
+    white-space: nowrap;
+}
+
+.nutrient-option input[type="radio"] {
+    accent-color: #00704A;
+    cursor: pointer;
+}

@@ -1,0 +1,96 @@
+.compare-modal {
+    background: white;
+    padding: 30px 40px;
+    border-radius: 12px;
+    box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
+    max-width: 1000px;
+    width: 90%;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.compare-modal h2 {
+    text-align: center;
+    margin-bottom: 24px;
+    font-size: 22px;
+    color: #333;
+}
+
+.selectors {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    margin-bottom: 20px;
+}
+
+.selectors select {
+    flex: 1;
+    padding: 10px;
+    font-size: 14px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+}
+
+.compare-grid {
+    display: flex;
+    gap: 40px;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.compare-grid.single {
+    justify-content: center;
+}
+
+.compare-grid div {
+    flex: 1;
+    background: #f8f8f8;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: left;
+    min-height: 300px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    max-width: 100%;
+}
+
+.compare-grid {
+    text-align: center;
+    margin-bottom: 12px;
+    font-size: 18px;
+    color: #00704A;
+}
+
+.compare-grid p {
+    margin: 6px 0;
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+.compare-grid strong {
+    display: inline-block;
+    width: 140px;
+    color: #444;
+}
+
+.placeholder-text {
+    color: #aaa;
+    text-align: center;
+    padding-top: 120px;
+    font-style: italic;
+}
+
+.compare-modal button {
+    margin: 24px auto 0;
+    display: block;
+    padding: 8px 16px;
+    background-color: #00704A;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+.compare-modal button:hover {
+    background-color: #005c3b;
+}

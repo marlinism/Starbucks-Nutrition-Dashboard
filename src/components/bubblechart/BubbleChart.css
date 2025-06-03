@@ -1,0 +1,30 @@
+.bubble-chart-container {
+    width: 100%;
+    height: 450px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.bubble-chart-container h3 {
+    margin: 0;
+    padding-bottom: 10px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+    color: #00704A;
+    height: 40px;
+}
+
+.bubble-chart-container svg {
+    display: block;
+    width: 100%;
+    height: calc(100% - 50px);
+}
+
+.bubble-chart-container text {
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 11px;
+    fill: white;
+    pointer-events: none;
+    text-anchor: middle;
+}

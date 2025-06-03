@@ -1,0 +1,695 @@
+[
+  {
+    "name": "8-Grain Roll",
+    "calories": 350,
+    "total_fat": 8,
+    "carbohydrates": 67,
+    "fiber": 5,
+    "protein": 10,
+    "category": "Bakery"
+  },
+  {
+    "name": "Apple Bran Muffin",
+    "calories": 350,
+    "total_fat": 9,
+    "carbohydrates": 64,
+    "fiber": 7,
+    "protein": 6,
+    "category": "Bakery"
+  },
+  {
+    "name": "Apple Fritter",
+    "calories": 420,
+    "total_fat": 20,
+    "carbohydrates": 59,
+    "fiber": 0,
+    "protein": 5,
+    "category": "Bakery"
+  },
+  {
+    "name": "Banana Nut Loaf",
+    "calories": 490,
+    "total_fat": 19,
+    "carbohydrates": 75,
+    "fiber": 4,
+    "protein": 7,
+    "category": "Bakery"
+  },
+  {
+    "name": "Birthday Cake Mini Doughnut",
+    "calories": 130,
+    "total_fat": 6,
+    "carbohydrates": 17,
+    "fiber": 0,
+    "protein": 0,
+    "category": "Bakery"
+  },
+  {
+    "name": "Blueberry Oat Bar",
+    "calories": 370,
+    "total_fat": 14,
+    "carbohydrates": 47,
+    "fiber": 5,
+    "protein": 6,
+    "category": "Bakery"
+  },
+  {
+    "name": "Blueberry Scone",
+    "calories": 460,
+    "total_fat": 22,
+    "carbohydrates": 61,
+    "fiber": 2,
+    "protein": 7,
+    "category": "Bakery"
+  },
+  {
+    "name": "Bountiful Blueberry Muffin",
+    "calories": 370,
+    "total_fat": 14,
+    "carbohydrates": 55,
+    "fiber": 0,
+    "protein": 6,
+    "category": "Bakery"
+  },
+  {
+    "name": "Butter Croissant",
+    "calories": 310,
+    "total_fat": 18,
+    "carbohydrates": 32,
+    "fiber": 0,
+    "protein": 5,
+    "category": "Bakery"
+  },
+  {
+    "name": "Cheese Danish",
+    "calories": 420,
+    "total_fat": 25,
+    "carbohydrates": 39,
+    "fiber": 0,
+    "protein": 7,
+    "category": "Bakery"
+  },
+  {
+    "name": "Chocolate Chunk Cookie",
+    "calories": 380,
+    "total_fat": 17,
+    "carbohydrates": 51,
+    "fiber": 2,
+    "protein": 4,
+    "category": "Bakery"
+  },
+  {
+    "name": "Chocolate Cinnamon Bread",
+    "calories": 320,
+    "total_fat": 12,
+    "carbohydrates": 53,
+    "fiber": 3,
+    "protein": 6,
+    "category": "Bakery"
+  },
+  {
+    "name": "Chocolate Croissant",
+    "calories": 300,
+    "total_fat": 17,
+    "carbohydrates": 34,
+    "fiber": 2,
+    "protein": 5,
+    "category": "Bakery"
+  },
+  {
+    "name": "Chocolate Old-Fashioned Doughnut",
+    "calories": 420,
+    "total_fat": 21,
+    "carbohydrates": 57,
+    "fiber": 2,
+    "protein": 5,
+    "category": "Bakery"
+  },
+  {
+    "name": "Chonga Bagel",
+    "calories": 310,
+    "total_fat": 5,
+    "carbohydrates": 52,
+    "fiber": 3,
+    "protein": 12,
+    "category": "Bakery"
+  },
+  {
+    "name": "Cinnamon Chip Scone",
+    "calories": 480,
+    "total_fat": 18,
+    "carbohydrates": 70,
+    "fiber": 3,
+    "protein": 7,
+    "category": "Bakery"
+  },
+  {
+    "name": "Cranberry Orange Scone",
+    "calories": 490,
+    "total_fat": 18,
+    "carbohydrates": 73,
+    "fiber": 2,
+    "protein": 8,
+    "category": "Bakery"
+  },
+  {
+    "name": "Double Chocolate Brownie",
+    "calories": 410,
+    "total_fat": 24,
+    "carbohydrates": 46,
+    "fiber": 3,
+    "protein": 6,
+    "category": "Bakery"
+  },
+  {
+    "name": "Double Fudge Mini Doughnut",
+    "calories": 130,
+    "total_fat": 7,
+    "carbohydrates": 16,
+    "fiber": 0,
+    "protein": 0,
+    "category": "Bakery"
+  },
+  {
+    "name": "Everything with Cheese Bagel",
+    "calories": 280,
+    "total_fat": 2,
+    "carbohydrates": 56,
+    "fiber": 2,
+    "protein": 10,
+    "category": "Bakery"
+  },
+  {
+    "name": "Ginger Molasses Cookie",
+    "calories": 360,
+    "total_fat": 12,
+    "carbohydrates": 58,
+    "fiber": 0,
+    "protein": 3,
+    "category": "Bakery"
+  },
+  {
+    "name": "Iced Lemon Pound Cake",
+    "calories": 490,
+    "total_fat": 23,
+    "carbohydrates": 67,
+    "fiber": 0,
+    "protein": 5,
+    "category": "Bakery"
+  },
+  {
+    "name": "Mallorca Sweet Bread",
+    "calories": 420,
+    "total_fat": 25,
+    "carbohydrates": 42,
+    "fiber": 0,
+    "protein": 7,
+    "category": "Bakery"
+  },
+  {
+    "name": "Maple Oat Pecan Scone",
+    "calories": 440,
+    "total_fat": 18,
+    "carbohydrates": 59,
+    "fiber": 3,
+    "protein": 8,
+    "category": "Bakery"
+  },
+  {
+    "name": "Marble Pound Cake",
+    "calories": 350,
+    "total_fat": 13,
+    "carbohydrates": 54,
+    "fiber": 0,
+    "protein": 6,
+    "category": "Bakery"
+  },
+  {
+    "name": "Marshmallow Dream Bar",
+    "calories": 210,
+    "total_fat": 4,
+    "carbohydrates": 43,
+    "fiber": 0,
+    "protein": 0,
+    "category": "Bakery"
+  },
+  {
+    "name": "Morning Bun",
+    "calories": 350,
+    "total_fat": 16,
+    "carbohydrates": 45,
+    "fiber": 2,
+    "protein": 6,
+    "category": "Bakery"
+  },
+  {
+    "name": "Multigrain Bagel",
+    "calories": 300,
+    "total_fat": 3,
+    "carbohydrates": 60,
+    "fiber": 6,
+    "protein": 15,
+    "category": "Bakery"
+  },
+  {
+    "name": "Old-Fashioned Glazed Doughnut",
+    "calories": 420,
+    "total_fat": 21,
+    "carbohydrates": 57,
+    "fiber": 0,
+    "protein": 4,
+    "category": "Bakery"
+  },
+  {
+    "name": "Outrageous Oatmeal Cookie",
+    "calories": 370,
+    "total_fat": 14,
+    "carbohydrates": 56,
+    "fiber": 3,
+    "protein": 5,
+    "category": "Bakery"
+  },
+  {
+    "name": "Petite Vanilla Bean Scone",
+    "calories": 140,
+    "total_fat": 5,
+    "carbohydrates": 21,
+    "fiber": 0,
+    "protein": 0,
+    "category": "Bakery"
+  },
+  {
+    "name": "Plain Bagel",
+    "calories": 280,
+    "total_fat": 1,
+    "carbohydrates": 59,
+    "fiber": 2,
+    "protein": 9,
+    "category": "Bakery"
+  },
+  {
+    "name": "Pumpkin Bread",
+    "calories": 390,
+    "total_fat": 14,
+    "carbohydrates": 61,
+    "fiber": 2,
+    "protein": 6,
+    "category": "Bakery"
+  },
+  {
+    "name": "Pumpkin Scone",
+    "calories": 480,
+    "total_fat": 17,
+    "carbohydrates": 78,
+    "fiber": 2,
+    "protein": 6,
+    "category": "Bakery"
+  },
+  {
+    "name": "Raspberry Scone",
+    "calories": 480,
+    "total_fat": 25,
+    "carbohydrates": 59,
+    "fiber": 3,
+    "protein": 8,
+    "category": "Bakery"
+  },
+  {
+    "name": "Raspberry Swirl Pound Cake",
+    "calories": 430,
+    "total_fat": 16,
+    "carbohydrates": 69,
+    "fiber": 0,
+    "protein": 4,
+    "category": "Bakery"
+  },
+  {
+    "name": "Reduced-Fat Banana Chocolate Chip Coffee Cake",
+    "calories": 400,
+    "total_fat": 8,
+    "carbohydrates": 80,
+    "fiber": 4,
+    "protein": 5,
+    "category": "Bakery"
+  },
+  {
+    "name": "Reduced-Fat Cinnamon Swirl Coffee Cake",
+    "calories": 340,
+    "total_fat": 9,
+    "carbohydrates": 62,
+    "fiber": 2,
+    "protein": 4,
+    "category": "Bakery"
+  },
+  {
+    "name": "Reduced-Fat Very Berry Coffee Cake",
+    "calories": 350,
+    "total_fat": 10,
+    "carbohydrates": 59,
+    "fiber": 4,
+    "protein": 7,
+    "category": "Bakery"
+  },
+  {
+    "name": "Starbucks Classic Coffee Cake",
+    "calories": 440,
+    "total_fat": 19,
+    "carbohydrates": 63,
+    "fiber": 0,
+    "protein": 6,
+    "category": "Bakery"
+  },
+  {
+    "name": "Zucchini Walnut Muffin",
+    "calories": 490,
+    "total_fat": 28,
+    "carbohydrates": 52,
+    "fiber": 2,
+    "protein": 7,
+    "category": "Bakery"
+  },
+  {
+    "name": "Cheese & Fruit",
+    "calories": 480,
+    "total_fat": 28,
+    "carbohydrates": 39,
+    "fiber": 6,
+    "protein": 18,
+    "category": "Bistro Box"
+  },
+  {
+    "name": "Chicken & Hummus",
+    "calories": 270,
+    "total_fat": 8,
+    "carbohydrates": 29,
+    "fiber": 6,
+    "protein": 16,
+    "category": "Bistro Box"
+  },
+  {
+    "name": "Chicken Lettuce Wraps",
+    "calories": 360,
+    "total_fat": 19,
+    "carbohydrates": 32,
+    "fiber": 4,
+    "protein": 17,
+    "category": "Bistro Box"
+  },
+  {
+    "name": "Chipotle Chicken Wraps",
+    "calories": 380,
+    "total_fat": 15,
+    "carbohydrates": 35,
+    "fiber": 6,
+    "protein": 26,
+    "category": "Bistro Box"
+  },
+  {
+    "name": "Protein",
+    "calories": 380,
+    "total_fat": 19,
+    "carbohydrates": 37,
+    "fiber": 5,
+    "protein": 13,
+    "category": "Bistro Box"
+  },
+  {
+    "name": "Salumi & Cheese",
+    "calories": 420,
+    "total_fat": 26,
+    "carbohydrates": 22,
+    "fiber": 3,
+    "protein": 25,
+    "category": "Bistro Box"
+  },
+  {
+    "name": "Sesame Noodles",
+    "calories": 350,
+    "total_fat": 11,
+    "carbohydrates": 50,
+    "fiber": 6,
+    "protein": 15,
+    "category": "Bistro Box"
+  },
+  {
+    "name": "Tuna Salad",
+    "calories": 380,
+    "total_fat": 21,
+    "carbohydrates": 25,
+    "fiber": 5,
+    "protein": 23,
+    "category": "Bistro Box"
+  },
+  {
+    "name": "Apple Pie",
+    "calories": 180,
+    "total_fat": 7,
+    "carbohydrates": 27,
+    "fiber": 0,
+    "protein": 2,
+    "category": "Petite"
+  },
+  {
+    "name": "Birthday Cake Pop",
+    "calories": 170,
+    "total_fat": 9,
+    "carbohydrates": 22,
+    "fiber": 0,
+    "protein": 0,
+    "category": "Petite"
+  },
+  {
+    "name": "Brown Sugar Walnut Tart",
+    "calories": 190,
+    "total_fat": 12,
+    "carbohydrates": 24,
+    "fiber": 0,
+    "protein": 2,
+    "category": "Petite"
+  },
+  {
+    "name": "Cherry Pie",
+    "calories": 170,
+    "total_fat": 7,
+    "carbohydrates": 24,
+    "fiber": 0,
+    "protein": 2,
+    "category": "Petite"
+  },
+  {
+    "name": "Chocolate Creme Whoopie Pie",
+    "calories": 190,
+    "total_fat": 11,
+    "carbohydrates": 23,
+    "fiber": 0,
+    "protein": 0,
+    "category": "Petite"
+  },
+  {
+    "name": "Chocolate Hazelnut Tart",
+    "calories": 180,
+    "total_fat": 10,
+    "carbohydrates": 23,
+    "fiber": 0,
+    "protein": 2,
+    "category": "Petite"
+  },
+  {
+    "name": "Raspberry Truffle Cake Pop",
+    "calories": 160,
+    "total_fat": 8,
+    "carbohydrates": 24,
+    "fiber": 0,
+    "protein": 2,
+    "category": "Petite"
+  },
+  {
+    "name": "Red Velvet Whoopie Pie",
+    "calories": 190,
+    "total_fat": 11,
+    "carbohydrates": 21,
+    "fiber": 0,
+    "protein": 0,
+    "category": "Petite"
+  },
+  {
+    "name": "Tiramisu Cake Pop",
+    "calories": 170,
+    "total_fat": 9,
+    "carbohydrates": 22,
+    "fiber": 0,
+    "protein": 0,
+    "category": "Petite"
+  },
+  {
+    "name": "Bacon & Gouda Artisan Breakfast Sandwich",
+    "calories": 350,
+    "total_fat": 18,
+    "carbohydrates": 30,
+    "fiber": 0,
+    "protein": 17,
+    "category": "Hot Breakfast"
+  },
+  {
+    "name": "Chicken Sausage Breakfast Wrap",
+    "calories": 300,
+    "total_fat": 10,
+    "carbohydrates": 33,
+    "fiber": 5,
+    "protein": 14,
+    "category": "Hot Breakfast"
+  },
+  {
+    "name": "Ham & Cheddar Artisan Breakfast Sandwich",
+    "calories": 350,
+    "total_fat": 16,
+    "carbohydrates": 31,
+    "fiber": 0,
+    "protein": 20,
+    "category": "Hot Breakfast"
+  },
+  {
+    "name": "Sausage & Cheddar Classic Breakfast Sandwich",
+    "calories": 500,
+    "total_fat": 28,
+    "carbohydrates": 41,
+    "fiber": 0,
+    "protein": 19,
+    "category": "Hot Breakfast"
+  },
+  {
+    "name": "Spinach & Feta Breakfast Wrap",
+    "calories": 290,
+    "total_fat": 10,
+    "carbohydrates": 33,
+    "fiber": 6,
+    "protein": 19,
+    "category": "Hot Breakfast"
+  },
+  {
+    "name": "Starbucks Perfect Oatmeal",
+    "calories": 140,
+    "total_fat": 2.5,
+    "carbohydrates": 25,
+    "fiber": 4,
+    "protein": 5,
+    "category": "Hot Breakfast"
+  },
+  {
+    "name": "Turkey Bacon & White Cheddar Classic Breakfast Sandwich",
+    "calories": 320,
+    "total_fat": 7,
+    "carbohydrates": 43,
+    "fiber": 3,
+    "protein": 18,
+    "category": "Hot Breakfast"
+  },
+  {
+    "name": "Veggie & Monterey Jack Artisan Breakfast Sandwich",
+    "calories": 350,
+    "total_fat": 18,
+    "carbohydrates": 30,
+    "fiber": 0,
+    "protein": 17,
+    "category": "Hot Breakfast"
+  },
+  {
+    "name": "Deluxe Fruit Blend",
+    "calories": 80,
+    "total_fat": 0,
+    "carbohydrates": 20,
+    "fiber": 2,
+    "protein": 0,
+    "category": "Salad"
+  },
+  {
+    "name": "Chicken Santa Fe Panini",
+    "calories": 400,
+    "total_fat": 11,
+    "carbohydrates": 47,
+    "fiber": 2,
+    "protein": 26,
+    "category": "Sandwich"
+  },
+  {
+    "name": "Egg Salad Sandwich",
+    "calories": 460,
+    "total_fat": 27,
+    "carbohydrates": 37,
+    "fiber": 5,
+    "protein": 22,
+    "category": "Sandwich"
+  },
+  {
+    "name": "Ham & Swiss Panini",
+    "calories": 360,
+    "total_fat": 9,
+    "carbohydrates": 43,
+    "fiber": 2,
+    "protein": 28,
+    "category": "Sandwich"
+  },
+  {
+    "name": "Roasted Tomato & Mozzarella Panini",
+    "calories": 390,
+    "total_fat": 18,
+    "carbohydrates": 44,
+    "fiber": 3,
+    "protein": 15,
+    "category": "Sandwich"
+  },
+  {
+    "name": "Roasted Vegetable Panini",
+    "calories": 350,
+    "total_fat": 12,
+    "carbohydrates": 48,
+    "fiber": 4,
+    "protein": 13,
+    "category": "Sandwich"
+  },
+  {
+    "name": "Tarragon Chicken Salad Sandwich",
+    "calories": 420,
+    "total_fat": 13,
+    "carbohydrates": 46,
+    "fiber": 6,
+    "protein": 32,
+    "category": "Sandwich"
+  },
+  {
+    "name": "Turkey & Swiss Sandwich",
+    "calories": 390,
+    "total_fat": 13,
+    "carbohydrates": 36,
+    "fiber": 2,
+    "protein": 34,
+    "category": "Sandwich"
+  },
+  {
+    "name": "Greek Yogurt Honey Parfait",
+    "calories": 300,
+    "total_fat": 12,
+    "carbohydrates": 44,
+    "fiber": 0,
+    "protein": 8,
+    "category": "Parfait"
+  },
+  {
+    "name": "Peach Raspberry Yogurt Parfait",
+    "calories": 300,
+    "total_fat": 4,
+    "carbohydrates": 57,
+    "fiber": 3,
+    "protein": 10,
+    "category": "Parfait"
+  },
+  {
+    "name": "Strawberry & Blueberry Yogurt Parfait",
+    "calories": 300,
+    "total_fat": 3.5,
+    "carbohydrates": 60,
+    "fiber": 3,
+    "protein": 7,
+    "category": "Parfait"
+  }
+]

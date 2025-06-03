@@ -1,0 +1,39 @@
+.top-items-chart {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.chart-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+.chart-header h3 {
+    margin: 0;
+    font-size: 18px;
+    font-weight: bold;
+    color: #00704A;
+}
+
+.chart-header select {
+    padding: 4px 8px;
+    font-size: 14px;
+}
+
+.tooltip {
+    position: absolute;
+    background: white;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
+    font-size: 13px;
+    line-height: 1.4;
+    pointer-events: none;
+    opacity: 0;
+    z-index: 9999;
+    text-align: left;
+}

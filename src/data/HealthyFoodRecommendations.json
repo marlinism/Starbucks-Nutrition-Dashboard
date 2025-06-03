@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Frappuccino® Cookie Straw",
+    "calories": 90,
+    "total_fat": 3,
+    "carbohydrates": 14,
+    "fiber": 0,
+    "protein": 1,
+    "factor": "Low Calories"
+  },
+  {
+    "name": "Seasonal Fruit Blend",
+    "calories": 90,
+    "total_fat": 0,
+    "carbohydrates": 24,
+    "fiber": 4,
+    "protein": 1,
+    "factor": "Low Calories"
+  },
+  {
+    "name": "Organic Avocado (Spread)",
+    "calories": 90,
+    "total_fat": 8,
+    "carbohydrates": 5,
+    "fiber": 4,
+    "protein": 1,
+    "factor": "Low Calories"
+  },
+  {
+    "name": "Lentils & Vegetable Protein Bowl with Brown Rice",
+    "calories": 650,
+    "total_fat": 29,
+    "carbohydrates": 80,
+    "fiber": 21,
+    "protein": 23,
+    "factor": "High Fiber"
+  },
+  {
+    "name": "Za'atar Chicken & Lemon Tahini Salad",
+    "calories": 570,
+    "total_fat": 23,
+    "carbohydrates": 67,
+    "fiber": 11,
+    "protein": 27,
+    "factor": "High Fiber"
+  },
+  {
+    "name": "Green Goddess Avocado Salad",
+    "calories": 620,
+    "total_fat": 37,
+    "carbohydrates": 62,
+    "fiber": 10,
+    "protein": 13,
+    "factor": "High Fiber"
+  },
+  {
+    "name": "Turkey Pesto Panini",
+    "calories": 560,
+    "total_fat": 23,
+    "carbohydrates": 55,
+    "fiber": 3,
+    "protein": 34,
+    "factor": "High Protein"
+  },
+  {
+    "name": "Roasted Turkey & Dill Havarti Sandwich",
+    "calories": 600,
+    "total_fat": 32,
+    "carbohydrates": 47,
+    "fiber": 6,
+    "protein": 32,
+    "factor": "High Protein"
+  },
+  {
+    "name": "Turkey & Havarti Sandwich",
+    "calories": 460,
+    "total_fat": 21,
+    "carbohydrates": 31,
+    "fiber": 2,
+    "protein": 29,
+    "factor": "High Protein"
+  }
+]

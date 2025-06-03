@@ -1,0 +1,107 @@
+.ri-container {
+    padding: 12px;
+    font-family: 'Segoe UI', sans-serif;
+    color: #333;
+}
+
+.ri-header {
+    margin: 0 0 12px;
+    font-size: 20px;
+    font-weight: 600;
+    color: #00704A;
+    text-align: left;
+    border-bottom: 2px solid #e0e0e0;
+    padding-bottom: 6px;
+}
+
+.ri-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.ri-card {
+    position: relative;
+    margin: 8px 0;
+    padding: 10px 14px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.ri-card:hover {
+    background-color: #f5f5f5;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.ri-name {
+    font-size: 16px;
+    font-weight: 500;
+    color: #333;
+    display: inline-block;
+    max-width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.ri-tooltip {
+    position: absolute;
+    top: 100%;
+    left: 16px;
+    margin-top: 8px;
+    z-index: 2000;
+    pointer-events: none;
+}
+
+.ri-tooltip-arrow {
+    position: absolute;
+    top: -6px;
+    left: 20px;
+    width: 0;
+    height: 0;
+    border-left: 6px solid transparent;
+    border-right: 6px solid transparent;
+    border-bottom: 6px solid #fff;
+}
+
+.ri-tooltip-body {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
+    padding: 12px;
+    max-width: 260px;
+    font-size: 13px;
+    color: #333;
+    white-space: normal;
+    text-align: left;
+}
+
+.ri-tooltip-title {
+    font-weight: 600;
+    margin-bottom: 8px;
+    font-size: 15px;
+    color: #00704A;
+}
+
+.ri-tooltip-row {
+    margin-bottom: 6px;
+    line-height: 1.4;
+}
+
+.ri-tooltip-row:last-child {
+    margin-bottom: 0;
+}
+
+.ri-tooltip-row span {
+    font-weight: 500;
+    color: #00704A;
+}
+
+.ri-tooltip-factor {
+    font-weight: 600;
+    color: #005C3B;
+}
