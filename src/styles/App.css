@@ -103,7 +103,7 @@ body, html, .App {
   position: fixed;
   bottom: 0;
   width: 100%;
-  background-color: #00704A;
+  background-color: #1F322A;
   color: white;
   text-align: center;
   padding: 10px;
@@ -119,4 +119,11 @@ body, html, .App {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+.chart-header h3 {
+  margin-bottom: 12px;
+  font-size: 20px;
+  font-weight: 600;
+  color: #00704A;
+  text-align: center;
 }
